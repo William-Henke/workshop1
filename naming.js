@@ -13,9 +13,9 @@ const bacon = 9001;
 const purple = 0.2345;
 
 console.log('This hides buttons when applicaple', hideButtons);
-console.log('This makes the buttons appear when applicable', showButtons);
-console.log('This gets the first image for use on the page', getFirstImage);
-console.log('This moves the user to the next page', moveToNextPage);
-console.log('This changes some colors on the page', changeColor);
+console.log('This makes the buttons appear when applicable.', showButtons);
+console.log('This gets the first image for use on the page.', getFirstImage);
+console.log('This moves the user to the next page.', moveToNextPage);
+console.log('This changes some colors on the page.', changeColor);
 
-console.log('These are the constants', pi, limit, usersAllowed, bacon, purple);
+console.log('These are the constants:', pi, limit, usersAllowed, bacon, purple);
